@@ -1,1 +1,12 @@
 this is the start of coding in Linux.
+
+Notes
+
+1. connecting git through ssh to linux for secure coding environment.
+2. saving files and projects on my git resipitory named sample lines
+
+Next move
+
+1. creating a new website fullstack development.
+2. creating an app 
+3. learning new skill in linux everyday 
